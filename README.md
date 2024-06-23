@@ -1,0 +1,2 @@
+# starcoinstc
+STC token project
